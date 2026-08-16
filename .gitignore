@@ -1,0 +1,5 @@
+Decesion_trees_train_model/model_export/
+Decesion_trees_train_model/training_results/
+
+__pycache__/
+*.pyc

@@ -1,5 +1,22 @@
+# ==============================
+# Dataset
+# ==============================
+Dataset/
+dataset_csv/
+
+# ==============================
+# PCAP -> CSV conversion
+# ==============================
+data_convert_pcap/
+
+# ==============================
+# Decision Tree - generated files
+# ==============================
 Decesion_trees_train_model/model_export/
 Decesion_trees_train_model/training_results/
 
+# ==============================
+# Python cache
+# ==============================
 __pycache__/
 *.pyc
